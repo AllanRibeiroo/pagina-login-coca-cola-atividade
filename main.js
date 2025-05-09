@@ -9,7 +9,7 @@ const createWindow = () => {
     height: 600, // Define a altura da janela
     alwaysOnTop: true,
     transparent: true,
-    icon: 
+    icon: './assets/logo.png'
   })
 
   win.setMenuBarVisibility(false) // Oculta a barra de menu da janela
